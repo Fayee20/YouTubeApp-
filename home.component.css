@@ -1,0 +1,18 @@
+@import url(https://bootswatch.com/5/lux/bootstrap.min.css);
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 28pt;
+    
+}
+
+img {
+    margin-left: 37%;
+    margin-top: 2%;
+}
+
+button{
+    margin-left: 27%;
+}
+
